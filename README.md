@@ -6,7 +6,7 @@ This is another lazy script loader. Why you need another lazy script loader? Wel
 What lzscript does?
 ===================
 
-**lzscript** loads scripts whenever it is required, without blocking your content/images/css files being downloaded by browser. So theorically it will boost your website, but it depends how you are using it. The idea is, you will include the lzscript in your webpage's header, and then you will use lzscript to load your other javascript files, whenever required.
+**lzscript** loads scripts whenever it is required, without blocking your content/images/css files being downloaded by browser. So theoretically it will boost your website, but it depends how you are using it. The idea is, you will include the lzscript in your webpage's header, and then you will use lzscript to load your other javascript files, whenever required.
 
 How to use?
 ===========
