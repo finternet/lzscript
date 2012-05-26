@@ -1,7 +1,7 @@
 lzscript
 ========
 
-This is another lazy script loader. Why you need another lazy script loader? Well, you don't need it, but we need it :) so we made it and now sharing it with you. Who knows, maybe it will help you also.
+This is another lazy script loader. Why you need another lazy script loader? Well, you don't need it, but we need it :) so we made it and now sharing it with you. Who knows, maybe it will help you also (This code inspired by the [$script](https://github.com/ded/script.js) written by Dustin Diaz. Thanks Dustin!).
 
 What lzscript does?
 ===================
